@@ -1,6 +1,7 @@
 ![CI Windows Release](https://github.com/Fenrirthviti/obs-virtual-cam/workflows/CI%20Windows%20Release/badge.svg) ![CI Windows On-Push](https://github.com/Fenrirthviti/obs-virtual-cam/workflows/CI%20Windows%20On-Push/badge.svg)
 
 # OBS-VirtualCam
+
 obs-virutalcam is a plugin for obs-studio , transforming the output video to a virtual directshow device.
 
 **Supported Platforms** : Windows 7 , Windows 8 and Windows 10
